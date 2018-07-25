@@ -5,14 +5,15 @@
 ## Build Setup
 
 ``` bash
-# install dependencies
+# Install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# Serve with hot reload at localhost. It will run on port 8080 by default.
+# If that port is already in use, the next free port will be used.
 npm run dev
 
-# build for production with minification
+# Build for production with minification
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+For detailed explanation on how things work, consult the [docs for vue-loader](https://vue-loader.vuejs.org/).

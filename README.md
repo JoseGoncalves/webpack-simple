@@ -1,8 +1,6 @@
 # webpack-simple
 
-> A simple Vue 2.0 Webpack & `vue-loader` setup for quick prototyping. Note this template is not suitable for production - for that you may want to use the [full webpack template](https://github.com/vuejs-templates/webpack).
-
-> This template is Vue 2.0 compatible. For Vue 1.x use this command: `vue init webpack-simple#1.0 my-project`
+> A simple Vue 2.x Webpack 4 & `vue-loader` setup for quick prototyping. Note this template is not suitable for production - for that you may want to use the [full webpack template](https://github.com/vuejs-templates/webpack).
 
 ### Usage
 
@@ -22,7 +20,7 @@ $ npm run dev
 
 - `npm run build`: build with HTML/CSS/JS minification.
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader). Also check out the [breaking changes in vue-loader@9.0.0](https://github.com/vuejs/vue-loader/releases/tag/v9.0.0).
+For detailed explanation on how things work, consult the [docs for vue-loader](https://vue-loader.vuejs.org/).
 
 ### Fork It And Make Your Own
 
