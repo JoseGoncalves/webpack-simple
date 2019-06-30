@@ -1,6 +1,6 @@
 # webpack-simple
 
-> A simple Vue 2.x Webpack 4 & `vue-loader` setup for quick prototyping. Note this template is not suitable for production - for that you may want to use the [full webpack template](https://github.com/vuejs-templates/webpack).
+> A simple Vue 2.x Webpack 4 & `vue-loader` setup for quick prototyping.
 
 ### Usage
 
@@ -8,7 +8,7 @@ This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
 
 ``` bash
 $ npm install -g vue-cli
-$ vue init webpack-simple my-project
+$ vue init JoseGoncalves/webpack-simple my-project
 $ cd my-project
 $ npm install
 $ npm run dev
